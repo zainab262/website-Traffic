@@ -1,2 +1,3 @@
 # website-Traffic
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/417e4e4d-bb09-4ce6-a5bb-8d6b66b3feb8" />
+<img width="551" height="367" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/1024eb93-6c49-44b5-9832-7246dd0c70cb" />
+
